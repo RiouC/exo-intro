@@ -2,6 +2,6 @@
 Aucune commande linux apprise depuis le début de la formation.
 
 2.
-La commande sudo (substitute user do) permet d'appeler une commande ou un programme en tant que simple utilisateur en demandant d'utiliser des droits supplémentaires pour cette action particulière.
+La commande sudo (substitute user do) permet d'appeler une commande ou un programme avec des droits différents de l'utilisateur courant pour cette action particulière. 
 Cette commande est couramment utilisée pour obtenir des droits equivalent à root, mais on peut l'utiliser de manière plus flexible avec le fichier de configuration sudoers.
 Une commande alternative faisant sensiblement la même chose tout en étant plus légère (et plus simple à configurer selon certains) est open-doas, qui est majoritairement utilisée sur des systèmes BSD.
